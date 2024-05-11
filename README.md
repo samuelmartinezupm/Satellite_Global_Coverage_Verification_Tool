@@ -1,6 +1,6 @@
 # Global Coverage Verification Tool
 
-This code is © S. Martinez, 2024, and it is made available under the GPL license enclosed with the software.
+This code is © Samuel M. Zamacola, 2024, and it is made available under the GPL license enclosed with the software.
 
 Over and above the legal restrictions imposed by this license, if you use this software for an academic publication then you are obliged to provide proper attribution to the paper that describes it:
 + Samuel Martínez Zamacola, Ramón Martínez Rodríguez-Osorio, Miguel A. Salas-Natera, "Joint Satellite Platform and Constellation Sizing for Fast Beam-Hopping in 5G/6G Non-Terrestrial Networks",
