@@ -1,8 +1,7 @@
 %% GLOBAL COVERAGE VERIFYING TOOL: 
-% "Global coverage is understood as the condition where for any time
-% instant, any terrestrial terminal, independent of its location, is 
-% able to spot and establish a link under the defined minimum elevation 
-% angle requirement, with at least one satellite within the constellation."
+% "Global coverage is defined as the condition where for any time instant, any 
+% terrestrial terminal, independent of its location, is able to establish a link 
+% with at least one satellite of the constellation under the defined minimum elevation angle. "
 
 clc;
 clear;
