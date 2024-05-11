@@ -1,4 +1,4 @@
-# Global_Coverage_Verification
+# Global Coverage Verification Tool
 
 This code is © S. Martinez, 2024, and it is made available under the GPL license enclosed with the software.
 
