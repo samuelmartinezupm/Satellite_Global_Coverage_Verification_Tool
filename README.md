@@ -1,4 +1,4 @@
-# Global Coverage Verification Tool
+# Satellite Global Coverage Verification Tool
 
 This code is © Samuel M. Zamacola, 2024, and it is made available under the GPL license enclosed with the software.
 
