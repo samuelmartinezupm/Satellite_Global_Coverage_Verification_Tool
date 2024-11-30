@@ -3,7 +3,7 @@
 This code is © Samuel M. Zamacola, 2024, and it is made available under the GPL license enclosed with the software.
 
 Over and above the legal restrictions imposed by this license, if you use this software for an academic publication then you are obliged to provide proper attribution to the paper that describes it:
-+ Samuel Martínez Zamacola, Ramón Martínez Rodríguez-Osorio, Miguel A. Salas-Natera, "Joint Satellite Platform and Constellation Sizing for Fast Beam-Hopping in 5G/6G Non-Terrestrial Networks",
++ S. M. Zamacola, R. M. Rodríguez-Osorio, and M. A. Salas-Natera, ‘Joint satellite platform and constellation sizing for instantaneous beam-hopping in 5G/6G Non-Terrestrial Networks’, Computer Networks, p. 110942, 2024.
 
 DEF.: "Global coverage is defined as the condition where for any time instant, any terrestrial terminal, independent of its location, is able to establish a link with at least one satellite of the constellation under the defined minimum elevation angle."
 
